@@ -1,0 +1,2 @@
+# QXBnewsChildTemplate
+Wordpress Template QXBnews
